@@ -19,7 +19,7 @@ export class SalesPersonListComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit() {
   }
 
 }
